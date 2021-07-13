@@ -1,0 +1,9 @@
+ {
+    "name": "@nos43ratu/prettier-config",
+    "version": "1.0.1",
+    "description": "Prettier config file",
+    "main": "index.json",
+    "repository": "git@github.com:Nos43ratu/prettier-config.git",
+    "author": "Adil Kairolla",
+    "license": "MIT"        
+ }
